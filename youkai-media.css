@@ -1,0 +1,20 @@
+#process1{
+    background-image: url("youkai/process1.png");
+    background-position: top;
+    background-size: 70% 50%;
+    position:relative;
+    background-color: rgb(99, 30, 71);
+    margin-top: 7rem;
+    margin-right: 0rem;
+    height: 60rem;
+}
+
+#process1 h2{
+    padding-top: 40rem;
+    padding-left: 10%;
+    float: left;
+}
+
+#process1 p{
+    padding-top: 33rem;
+}
